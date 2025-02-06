@@ -1,0 +1,55 @@
+body{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 100%;
+    margin: 0 auto;
+    text-align: left;
+    letter-spacing: 0.5px;
+    word-spacing: 1px;
+    line-height: 1.6;
+}
+
+main{
+    padding: 0 20px;
+}
+
+nav {
+background-color: #172A3A;
+padding: 40px;
+color: white;
+display: flex;
+justify-content: center;
+}
+
+
+
+a {
+    color: #172A3A;
+    text-decoration: none;
+}
+.hng {
+    font-weight: 600;
+}
+
+
+footer {
+    background-color: #172A3A;
+  text-align: center;
+  padding: 20px;
+}
+
+.footer-text {
+  font-size: 24px;
+  color: white; 
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 10px;
+}
+
+.links a i {
+  font-size: 24px;
+  color: white;
+}
